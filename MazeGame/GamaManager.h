@@ -8,7 +8,7 @@ class GamaManager
 public:
 
 private:
-
+ 
 };
 
 #endif
